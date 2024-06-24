@@ -4,7 +4,7 @@
 O objetivo desse código é criar uma estrutura de dados de árvore binária que permite inserção, travessia e cálculo da altura da árvore.
 Essa estrutura é útil para organizar dados hierarquicamente e realizar operações eficientes em árvores. 
 
-------------------------------------------------------------     Analise:     ------------------------------------------------------------
+Analise:
  Cada parte do código é uma implementação de uma árvore binária em Java:
 
 1.	Classe ArvoreBinaria:
